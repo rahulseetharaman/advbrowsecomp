@@ -1,0 +1,72 @@
+{
+ "n_questions": 99,
+ "clean_correct": 43,
+ "arms": {
+  "f1": {
+   "questions_with_injected": 82,
+   "accuracy": 26,
+   "flips": 23,
+   "reverse_flips": 6,
+   "flip_types": {
+    "answered_injected_lure": 17,
+    "no_answer_turn_cap": 5,
+    "gold_never_shown": 1
+   },
+   "shown_injected": 73,
+   "opened_injected": 44,
+   "adopted_lure": 45,
+   "adopted_lure_among_wrong": 45,
+   "gold_shown_clean": 60,
+   "gold_shown_arm": 49,
+   "gold_opened_clean": 28,
+   "gold_opened_arm": 20,
+   "no_answer": 25,
+   "n": 99,
+   "clean_accuracy_same_q": 43
+  },
+  "f2": {
+   "questions_with_injected": 64,
+   "accuracy": 24,
+   "flips": 25,
+   "reverse_flips": 6,
+   "flip_types": {
+    "answered_injected_lure": 19,
+    "no_answer_turn_cap": 5,
+    "gold_never_shown": 1
+   },
+   "shown_injected": 59,
+   "opened_injected": 44,
+   "adopted_lure": 40,
+   "adopted_lure_among_wrong": 40,
+   "gold_shown_clean": 60,
+   "gold_shown_arm": 42,
+   "gold_opened_clean": 28,
+   "gold_opened_arm": 15,
+   "no_answer": 29,
+   "n": 99,
+   "clean_accuracy_same_q": 43
+  },
+  "f4": {
+   "questions_with_injected": 88,
+   "accuracy": 36,
+   "flips": 16,
+   "reverse_flips": 9,
+   "flip_types": {
+    "no_answer_turn_cap": 9,
+    "answered_injected_lure": 7
+   },
+   "shown_injected": 76,
+   "opened_injected": 23,
+   "adopted_lure": 23,
+   "adopted_lure_among_wrong": 23,
+   "gold_shown_clean": 60,
+   "gold_shown_arm": 60,
+   "gold_opened_clean": 28,
+   "gold_opened_arm": 26,
+   "no_answer": 35,
+   "n": 99,
+   "clean_accuracy_same_q": 43
+  }
+ },
+ "agent_cost_usd": 110.68
+}

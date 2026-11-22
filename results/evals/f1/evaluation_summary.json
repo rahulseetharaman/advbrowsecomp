@@ -1,0 +1,510 @@
+{
+  "LLM": "gpt-5.4-mini",
+  "Accuracy (%)": 26.26,
+  "Recall (%)": 35.37,
+  "avg_tool_stats": {
+    "search": 14.858585858585858,
+    "get_document": 0.9797979797979798
+  },
+  "Calibration Error (%)": 0.0,
+  "Retriever": "change me when submitting",
+  "Link": "change me when submitting",
+  "Evaluation Date": "2026-11-22",
+  "per_query_metrics": [
+    {
+      "query_id": "265",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "179",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "301",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "289",
+      "correct": true,
+      "recall": 75.0
+    },
+    {
+      "query_id": "82",
+      "correct": false,
+      "recall": 11.11
+    },
+    {
+      "query_id": "402",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "356",
+      "correct": true,
+      "recall": 100.0
+    },
+    {
+      "query_id": "403",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "256",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "282",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "261",
+      "correct": true,
+      "recall": 100.0
+    },
+    {
+      "query_id": "472",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "186",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "193",
+      "correct": false,
+      "recall": 50.0
+    },
+    {
+      "query_id": "132",
+      "correct": false,
+      "recall": 66.67
+    },
+    {
+      "query_id": "383",
+      "correct": false,
+      "recall": 87.5
+    },
+    {
+      "query_id": "206",
+      "correct": false,
+      "recall": 11.11
+    },
+    {
+      "query_id": "496",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "411",
+      "correct": true,
+      "recall": 80.0
+    },
+    {
+      "query_id": "519",
+      "correct": true,
+      "recall": 100.0
+    },
+    {
+      "query_id": "226",
+      "correct": false,
+      "recall": 85.71
+    },
+    {
+      "query_id": "127",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "560",
+      "correct": false,
+      "recall": 14.29
+    },
+    {
+      "query_id": "468",
+      "correct": false,
+      "recall": 66.67
+    },
+    {
+      "query_id": "298",
+      "correct": false,
+      "recall": 60.0
+    },
+    {
+      "query_id": "50",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "335",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "405",
+      "correct": true,
+      "recall": 88.89
+    },
+    {
+      "query_id": "593",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "177",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "594",
+      "correct": true,
+      "recall": 20.0
+    },
+    {
+      "query_id": "632",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "636",
+      "correct": false,
+      "recall": 33.33
+    },
+    {
+      "query_id": "596",
+      "correct": false,
+      "recall": 14.29
+    },
+    {
+      "query_id": "498",
+      "correct": false,
+      "recall": 60.0
+    },
+    {
+      "query_id": "562",
+      "correct": false,
+      "recall": 25.0
+    },
+    {
+      "query_id": "533",
+      "correct": true,
+      "recall": 100.0
+    },
+    {
+      "query_id": "681",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "485",
+      "correct": false,
+      "recall": 71.43
+    },
+    {
+      "query_id": "481",
+      "correct": false,
+      "recall": 80.0
+    },
+    {
+      "query_id": "715",
+      "correct": true,
+      "recall": 100.0
+    },
+    {
+      "query_id": "491",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "682",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "595",
+      "correct": true,
+      "recall": 100.0
+    },
+    {
+      "query_id": "590",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "816",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "569",
+      "correct": false,
+      "recall": 100.0
+    },
+    {
+      "query_id": "776",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "722",
+      "correct": true,
+      "recall": 87.5
+    },
+    {
+      "query_id": "502",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "796",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "821",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "838",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "833",
+      "correct": false,
+      "recall": 11.11
+    },
+    {
+      "query_id": "810",
+      "correct": false,
+      "recall": 25.0
+    },
+    {
+      "query_id": "729",
+      "correct": false,
+      "recall": 100.0
+    },
+    {
+      "query_id": "804",
+      "correct": false,
+      "recall": 20.0
+    },
+    {
+      "query_id": "896",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "591",
+      "correct": false,
+      "recall": 16.67
+    },
+    {
+      "query_id": "947",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "850",
+      "correct": true,
+      "recall": 66.67
+    },
+    {
+      "query_id": "834",
+      "correct": true,
+      "recall": 71.43
+    },
+    {
+      "query_id": "910",
+      "correct": false,
+      "recall": 100.0
+    },
+    {
+      "query_id": "912",
+      "correct": true,
+      "recall": 50.0
+    },
+    {
+      "query_id": "968",
+      "correct": true,
+      "recall": 75.0
+    },
+    {
+      "query_id": "865",
+      "correct": false,
+      "recall": 10.0
+    },
+    {
+      "query_id": "1032",
+      "correct": false,
+      "recall": 50.0
+    },
+    {
+      "query_id": "970",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "814",
+      "correct": true,
+      "recall": 77.78
+    },
+    {
+      "query_id": "985",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "605",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "840",
+      "correct": true,
+      "recall": 80.0
+    },
+    {
+      "query_id": "1043",
+      "correct": false,
+      "recall": 75.0
+    },
+    {
+      "query_id": "763",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "883",
+      "correct": true,
+      "recall": 66.67
+    },
+    {
+      "query_id": "1089",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "764",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "1152",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "1133",
+      "correct": true,
+      "recall": 57.14
+    },
+    {
+      "query_id": "907",
+      "correct": true,
+      "recall": 83.33
+    },
+    {
+      "query_id": "1153",
+      "correct": false,
+      "recall": 20.0
+    },
+    {
+      "query_id": "1000",
+      "correct": true,
+      "recall": 66.67
+    },
+    {
+      "query_id": "1039",
+      "correct": false,
+      "recall": 50.0
+    },
+    {
+      "query_id": "1215",
+      "correct": true,
+      "recall": 62.5
+    },
+    {
+      "query_id": "1061",
+      "correct": false,
+      "recall": 20.0
+    },
+    {
+      "query_id": "1122",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "1019",
+      "correct": true,
+      "recall": 55.56
+    },
+    {
+      "query_id": "1254",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "1099",
+      "correct": true,
+      "recall": 71.43
+    },
+    {
+      "query_id": "1214",
+      "correct": false,
+      "recall": 55.56
+    },
+    {
+      "query_id": "1227",
+      "correct": true,
+      "recall": 77.78
+    },
+    {
+      "query_id": "886",
+      "correct": false,
+      "recall": 83.33
+    },
+    {
+      "query_id": "1045",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "1263",
+      "correct": true,
+      "recall": 100.0
+    },
+    {
+      "query_id": "1083",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "950",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "1232",
+      "correct": false,
+      "recall": 0.0
+    },
+    {
+      "query_id": "1191",
+      "correct": false,
+      "recall": 14.29
+    },
+    {
+      "query_id": "1185",
+      "correct": false,
+      "recall": 0.0
+    }
+  ]
+}

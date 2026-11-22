@@ -1,0 +1,3 @@
+# On top of BrowseComp-Plus's environment (pyserini, openai, transformers).
+openai>=1.97
+httpx>=0.27

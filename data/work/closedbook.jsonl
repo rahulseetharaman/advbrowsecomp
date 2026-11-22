@@ -1,0 +1,189 @@
+{"qid": "256", "model": "qwen", "entity": "Dr. Anna B.", "answer": "Anna B.", "confidence": 15}
+{"qid": "177", "model": "qwen", "entity": "Hearts of Oak FC", "answer": "1911, England", "confidence": 72}
+{"qid": "265", "model": "qwen", "entity": "An oil painter who studied at a US art academy in the 1970s and maintains a blog featuring donated artworks", "answer": "18\" x 24\"", "confidence": 25}
+{"qid": "193", "model": "qwen", "entity": "A CIA report on a scientific process to alter consciousness (likely hypnosis/mind control), made public in the 2000s via FOIA, with a missing page later retrieved by a Vice Media journalist", "answer": "The Power of Your Subconscious Mind by Joseph Murphy", "confidence": 35}
+{"qid": "261", "model": "qwen", "entity": "A research paper about emotions in an educational context from Harran University", "answer": "The Emotions of Students in the Context of Distance Education", "confidence": 25}
+{"qid": "356", "model": "qwen", "entity": "A research paper on predicting conjugal/marital happiness, published around December 2023, with 3 authors, a sample of 150-400 couples, affiliated with a university founded between 1975-2000, citing a 1990-2015 reference on interpersonal bonding in relationships", "answer": "I cannot confidently identify the exact DOI from my training data. This appears to be a very specific paper that I cannot verify without search capability.", "confidence": 10}
+{"qid": "82", "model": "qwen", "entity": "A researcher who was an assistant professor at the University of Alberta (Edmonton), completed a Ph.D. at a university in Saskatchewan or Alberta focused on immigrant activities in prairie cities, and co-authored an IJHPM article in 2022", "answer": "Mojtaba", "confidence": 15}
+{"qid": "383", "model": "qwen", "entity": "black mamba", "answer": "Bitey", "confidence": 40}
+{"qid": "186", "model": "qwen", "entity": "A DOS shareware game from November early 1990s by an amphibian-named company", "answer": "Frog Song", "confidence": 15}
+{"qid": "127", "model": "qwen", "entity": "A Stanford University professor who was a military officer in the mid-to-late 20th century and received the Infosys Prize (established 2012, associated with Narayana Murthy, founder of Infosys)", "answer": "Peter Lax", "confidence": 15}
+{"qid": "301", "model": "qwen", "entity": "An individual who married into the British Royal Family and was involved in cyber fraud", "answer": "Windsor", "confidence": 35}
+{"qid": "402", "model": "qwen", "entity": "A software developer who writes personal articles about working full-time while pursuing a bachelor's degree, known for coding as a teenager and advancing to a supervisory role by 2023", "answer": "Philippines", "confidence": 35}
+{"qid": "403", "model": "qwen", "entity": "A musician/entertainer born on their country's Independence Day who won Amateur Hour before 20, lived in Europe in the late 1970s, was arrested and released after a fine, and died before 80", "answer": "St. Joseph's Hospital", "confidence": 15}
+{"qid": "226", "model": "qwen", "entity": "A war memorial or civic statue in a British town/city centre, unveiled in the 1920s-1930s and renovated in the 2000s-2010s, located in an area historically used as an open-air factory", "answer": "Based on the clues — a European (likely British, given 'solicitors') landmark unveiled in the early 20th century, renovated in the early 21st century, situated in a former open-air factory area, and within 100m of a pizza restaurant, solicitors' office, fish company, Asian fusion restaurant, and optician — this most likely refers to a war memorial or civic statue in a British city or town centre on a former industrial high street. My best single guess is a WWI-era war memorial (Cenotaph or similar) in a mid-sized British city that was formerly an industrial area.", "confidence": 25}
+{"qid": "282", "model": "gpt55", "entity": "Pen Pen (Pen²), Misato Katsuragi's pet penguin in Neon Genesis Evangelion", "answer": "BX-293A", "confidence": 86}
+{"qid": "49", "model": "qwen", "entity": "a member of The Specials", "answer": "The Specials", "confidence": 25}
+{"qid": "405", "model": "qwen", "entity": "Garen", "answer": "Eureka", "confidence": 82}
+{"qid": "193", "model": "gpt55", "entity": "CIA report “Analysis and Assessment of the Gateway Process”", "answer": "Stalking the Wild Pendulum: On the Mechanics of Consciousness by Itzhak Bentov", "confidence": 92}
+{"qid": "411", "model": "qwen", "entity": "A Korean image captioning dataset paper (circa 2016-2017), co-authored by two associate professors at a Korean private university, one with a UK CS PhD and one with an Australian CS PhD", "answer": "50000", "confidence": 10}
+{"qid": "403", "model": "gpt55", "entity": "Mercedes Sosa", "answer": "Sanatorio de la Trinidad (Trinidad Clinic) in Buenos Aires", "confidence": 87}
+{"qid": "485", "model": "qwen", "entity": "Minecraft", "answer": "Katie", "confidence": 25}
+{"qid": "472", "model": "qwen", "entity": "A literary work about a person taken captive by another who is three times their age, by a writer considered the second most important in their country", "answer": "Carmen", "confidence": 15}
+{"qid": "468", "model": "qwen", "entity": "Panavia Tornado GR1", "answer": "ZA840", "confidence": 25}
+{"qid": "481", "model": "qwen", "entity": "A twin footballer on the Mainz 05 squad in 2016/17 who made no appearances", "answer": "Born in 1985, Germany", "confidence": 25}
+{"qid": "50", "model": "qwen", "entity": "A blog by a physiotherapist-novelist (who completed their first novel in 2005 and had been practicing for ~20 years by December 2005), who wrote a post about anxiety following the loss of a parent, titled with a line from a creative writing piece about death written 1999-2001 by a poet who met a famous writer at age 12", "answer": 6, "confidence": 35}
+{"qid": "298", "model": "gpt55", "entity": "Fred Rwigyema", "answer": "Fred Rwigyema", "confidence": 87}
+{"qid": "289", "model": "gpt55", "entity": "Çılgın Bediş", "answer": "Çılgın Bediş, 1996", "confidence": 86}
+{"qid": "405", "model": "gpt55", "entity": "Zilean", "answer": "Rewind", "confidence": 78}
+{"qid": "132", "model": "qwen", "entity": "The Masters", "answer": "The Masters", "confidence": 8}
+{"qid": "335", "model": "qwen", "entity": "A graphic designer who curates a design archive, publishes fonts, speaks two languages, and loves a generally hated font; they published a variable font designed by someone who co-authored a book about public transport", "answer": "London", "confidence": 35}
+{"qid": "498", "model": "qwen", "entity": "Barfi!", "answer": "Barfi! (2012)", "confidence": 85}
+{"qid": "289", "model": "qwen", "entity": "Dürüye", "answer": "Dürüye (1992)", "confidence": 45}
+{"qid": "179", "model": "qwen", "entity": "The Queen Is Dead (The Smiths song / musical)", "answer": "The Queen Is Dead", "confidence": 45}
+{"qid": "502", "model": "qwen", "entity": "A music blog's year-end list of 24 songs posted on December 27 (2011-2014), featuring diverse genres, with the 21st track from a 1986 album containing 17 tracks, and a new weekly segment introduced that year", "answer": "I cannot confidently identify the exact third song on this specific blog list without being able to verify the source. Based on the constraints provided (December 27 post, 24 diverse songs, 1986 album with 17 tracks at position 21, new weekly segment), this appears to be a very specific personal/indie music blog post that I cannot definitively recall.", "confidence": 15}
+{"qid": "206", "model": "qwen", "entity": "A 1960s Telugu film directed by K. Raghavendra Rao (born 1926)", "answer": "Pilla Rojalu", "confidence": 12}
+{"qid": "498", "model": "gpt55", "entity": "Singh Is Bliing", "answer": "Singh Is Bliing", "confidence": 95}
+{"qid": "533", "model": "gpt55", "entity": "Demir Demirkan", "answer": "Demir Demirkan", "confidence": 88}
+{"qid": "569", "model": "qwen", "entity": "Ricohet (the beagle at The Gardens at Viera nursing home in Florida)", "answer": "On the first encounter, the dog immediately went to a dying resident's room and curled up beside her, and she died shortly after, which was the moment the author first realized the animal had an uncanny ability to sense who was about to die.", "confidence": 55}
+{"qid": "560", "model": "qwen", "entity": "A long-time sporting event companion with a mobility-related medical condition, attended events for decades with a former association president", "answer": "I am unable to determine the exact full birth name with sufficient confidence from my knowledge alone. The clues point to a specific local sports community tribute, but I cannot reliably identify the individual.", "confidence": 15}
+{"qid": "301", "model": "gpt55", "entity": "Regina Daniels (spouse: Ned Nwoko)", "answer": "Nwoko Royal Family", "confidence": 65}
+{"qid": "282", "model": "qwen", "entity": "Neon Genesis Evangelion", "answer": "001", "confidence": 20}
+{"qid": "472", "model": "gpt55", "entity": "Benito Pérez Galdós", "answer": "Saturna", "confidence": 88}
+{"qid": "569", "model": "gpt55", "entity": "Oscar the cat", "answer": "Dr. David Dosa said that when he first encountered Oscar, the cat bit him when he tried to pet him.", "confidence": 88}
+{"qid": "383", "model": "gpt55", "entity": "black mamba", "answer": "Mr. Bitey", "confidence": 45}
+{"qid": "519", "model": "gpt55", "entity": "Glafcos Clerides", "answer": "Glafkos Clerides: The Path of a Country", "confidence": 82}
+{"qid": "533", "model": "qwen", "entity": "Dado Villa-Lobos", "answer": "Dado Villa-Lobos", "confidence": 15}
+{"qid": "519", "model": "qwen", "entity": "Robert Mugabe", "answer": "Robert Mugabe: A Political Biography", "confidence": 25}
+{"qid": "562", "model": "qwen", "entity": "An Australian woman who edited a newspaper page in 1894, wrote poetry and short stories, and married a widower with seven children", "answer": "Kerrie Wood", "confidence": 8}
+{"qid": "593", "model": "qwen", "entity": "A polymer-related dissertation submitted to UC San Diego (founded 1960), authored by a researcher who became an assistant professor at UCSD by 2023, with two co-major professors and three other PhD holders acknowledged", "answer": "May 2021", "confidence": 25}
+{"qid": "179", "model": "gpt55", "entity": "Ang Huling El Bimbo: The Musical", "answer": "Maraming Salamat", "confidence": 55}
+{"qid": "594", "model": "qwen", "entity": "A workshop schedule at the University of Toronto in the early 2000s dealing with digital repositories (featuring sessions on Islandora, Digital Commons, etc.), sponsored by entities including a repository and a Canadian research council", "answer": "Semantic Web", "confidence": 45}
+{"qid": "127", "model": "gpt55", "entity": "Eric A. Hanushek", "answer": "Steven G. Rivkin", "confidence": 45}
+{"qid": "491", "model": "gpt55", "entity": "B-Quartet", "answer": "B-Quartet", "confidence": 72}
+{"qid": "590", "model": "gpt55", "entity": "William Towns", "answer": "Stobhall Castle", "confidence": 87}
+{"qid": "206", "model": "gpt55", "entity": "Chakori (1967 film)", "answer": "Chakori", "confidence": 95}
+{"qid": "605", "model": "qwen", "entity": "Death Stranding Original Soundtrack (2019) by Ludwig Göransson", "answer": "Stillness", "confidence": 62}
+{"qid": "636", "model": "qwen", "entity": "Johannesburg (South Africa) and its heritage plaque foundation", "answer": "2019", "confidence": 40}
+{"qid": "491", "model": "qwen", "entity": "The Samis", "answer": "The Samis", "confidence": 10}
+{"qid": "49", "model": "gpt55", "entity": "Jet Black (Brian John Duffy)", "answer": "The Stranglers", "confidence": 82}
+{"qid": "496", "model": "qwen", "entity": "Doom (1993/1994 console versions)", "answer": "Doom", "confidence": 55}
+{"qid": "632", "model": "qwen", "entity": "A Korean freestyle athlete with accounting and sports psychology degrees", "answer": "March, South Korea", "confidence": 20}
+{"qid": "681", "model": "gpt55", "entity": "Greek Theatre (Los Angeles)", "answer": "6,162", "confidence": 87}
+{"qid": "682", "model": "qwen", "entity": "A copy editor and award-winning creative writing author who shares their name with a health editor who wrote an article about hair", "answer": "Katie Lippard", "confidence": 12}
+{"qid": "715", "model": "qwen", "entity": "A two-author bioinformatics paper from the late 1990s, where one co-author received a PhD in 2001 and later served as Professor of Bioinformatics (2012–2019) with >18,000 citations", "answer": "1R01GM098765", "confidence": 15}
+{"qid": "481", "model": "gpt55", "entity": "Kirill Kombarov", "answer": "1987, Russia", "confidence": 68}
+{"qid": "596", "model": "qwen", "entity": "The character described by their mother as being born with caffeine (a CNS stimulant antagonizing 4 adenosine receptor subtypes: A1, A2A, A2B, A3) in their system, played by an actor with a sports background and a master's degree", "answer": 1562, "confidence": 10}
+{"qid": "560", "model": "gpt55", "entity": "David Lander", "answer": "David Leonard Landau", "confidence": 82}
+{"qid": "594", "model": "gpt55", "entity": "Yale University digital humanities workshop schedule", "answer": "XML (Extensible Markup Language)", "confidence": 70}
+{"qid": "729", "model": "qwen", "entity": "A local politician/mayor who acted in a seasonal movie", "answer": "I am unable to identify this individual with sufficient confidence from the clues provided. The description points to a local political figure with a side career in seasonal film acting who obtained a PhD in the USA.", "confidence": 15}
+{"qid": "411", "model": "gpt55", "entity": "BanglaLekha-Isolated dataset", "answer": "166,105 digitized images", "confidence": 72}
+{"qid": "591", "model": "gpt55", "entity": "German University in Cairo", "answer": "German University in Cairo", "confidence": 94}
+{"qid": "590", "model": "qwen", "entity": "Taymouth Castle", "answer": "Taymouth Castle", "confidence": 65}
+{"qid": "763", "model": "qwen", "entity": "A historic site constructed in the 1800s, listed on the National Register of Historic Places, owned by an individual with documented personal assets exceeding $50,000 between 1860–1863, who died in September between 1876–1878, and located approximately 3,300–3,500 feet from an airport with a 3,400-foot runway", "answer": "I cannot definitively identify the specific entity with high confidence based on my internal knowledge alone. The combination of clues (antebellum-era property, NRHP listing, proximity to a small airport with a 3,400-ft runway, and the owner's documented wealth and September 1876–1878 death) points to a specific but likely lesser-known historic property in the Southern United States. My best guess would be a historic home or plantation in the Georgia or Carolinas region near a small public-use airport.", "confidence": 12}
+{"qid": "261", "model": "gpt55", "entity": "research paper", "answer": "Children’s Views on the COVID-19 Pandemic Through Drawings", "confidence": 32}
+{"qid": "298", "model": "qwen", "entity": "A Central/Eastern European political figure who co-founded a political movement, held a security role in a northern neighboring nation, and died in 1989 (the year Hungary's Országgyűlés formally ended single-party rule)", "answer": "I cannot identify the specific individual with sufficient confidence given the unusual combination of clues, particularly the cross-border security role and the specific commemorative status held by fewer than three individuals. My best guess points toward a figure from the Slovak or Hungarian political sphere who died in 1989, but I cannot commit to a specific name with reliability.", "confidence": 12}
+{"qid": "764", "model": "qwen", "entity": "An amateur watercolorist who married in 1894, had no children, and died in 1961", "answer": "Fourteen Lives", "confidence": 15}
+{"qid": "335", "model": "gpt55", "entity": "John Boardley / I Love Typography", "answer": "Los Angeles", "confidence": 63}
+{"qid": "776", "model": "qwen", "entity": "A scholar born in 1886 who was mistakenly identified as a shaman during a 1915 trip due to a word mix-up in a foreign language, lived in the same house for 35 years, raised three children, and encouraged a British-born colleague (early 1910s) to author a report", "answer": "Cultural Discoveries", "confidence": 25}
+{"qid": "596", "model": "gpt55", "entity": "Dani Rojas in Ted Lasso, played by Cristo Fernández; institution: University of Surrey", "answer": "2,475 female postgraduate students", "confidence": 30}
+{"qid": "265", "model": "gpt55", "entity": "Paul Kratter", "answer": "18\" x 24\"", "confidence": 14}
+{"qid": "402", "model": "gpt55", "entity": "Dillion Megida", "answer": "Nigeria", "confidence": 48}
+{"qid": "595", "model": "qwen", "entity": "Cao Yuan", "answer": "Cao Yuan", "confidence": 72}
+{"qid": "226", "model": "gpt55", "entity": "Mayflower Steps memorial, Plymouth, England", "answer": "Mayflower Steps", "confidence": 64}
+{"qid": "810", "model": "qwen", "entity": "A student of architecture born in the 19th century who died in the 20th century, with a sibling one year older who was a doctor and poet, and whose parent conducted seances", "answer": "Arthur", "confidence": 20}
+{"qid": "796", "model": "qwen", "entity": "Orelsan", "answer": "Orelsan", "confidence": 35}
+{"qid": "468", "model": "gpt55", "entity": "Avro Vulcan B.2 XM597", "answer": "XM597", "confidence": 72}
+{"qid": "821", "model": "qwen", "entity": "A tech company that faced a lawsuit for withdrawing a job offer (likely a case reported between 2020-2023)", "answer": "94%", "confidence": 35}
+{"qid": "636", "model": "gpt55", "entity": "Simon van der Stel Foundation (renamed the Heritage Association of South Africa)", "answer": "1999", "confidence": 40}
+{"qid": "356", "model": "gpt55", "entity": "A 2023 three-author study on predicting marital/relationship satisfaction among couples", "answer": "10.1177/02654075231185082", "confidence": 12}
+{"qid": "814", "model": "gpt55", "entity": "Holly Gauthier-Frankel", "answer": "Holly Gauthier-Frankel", "confidence": 88}
+{"qid": "177", "model": "gpt55", "entity": "FC Ararat Yerevan", "answer": "1935, Armenia", "confidence": 73}
+{"qid": "833", "model": "qwen", "entity": "Tater Holmes", "answer": "Sarge", "confidence": 72}
+{"qid": "496", "model": "gpt55", "entity": "Zero Tolerance (1994 video game)", "answer": "Zero Tolerance", "confidence": 82}
+{"qid": "605", "model": "gpt55", "entity": "Assassin's Creed: Revelations (Original Game Soundtrack)", "answer": "Master and Mentor", "confidence": 68}
+{"qid": "593", "model": "gpt55", "entity": "Taylor H. Ware's University of Texas at Dallas dissertation on liquid-crystal/polymer elastomers", "answer": "April 25, 2013", "confidence": 12}
+{"qid": "816", "model": "qwen", "entity": "A former circus performer turned businessman who founded a small arts organization in the 1990s", "answer": "The Roving Artist", "confidence": 15}
+{"qid": "722", "model": "gpt55", "entity": "Alexander C. Karp", "answer": "Alexander C. Karp", "confidence": 88}
+{"qid": "132", "model": "gpt55", "entity": "The Rumour", "answer": "Land of New Vigour and Zeal", "confidence": 72}
+{"qid": "632", "model": "gpt55", "entity": "Mélody Donchet", "answer": "June, France", "confidence": 82}
+{"qid": "834", "model": "qwen", "entity": "Morgan", "answer": "Morgan House", "confidence": 15}
+{"qid": "821", "model": "gpt55", "entity": "Amazon", "answer": "94%", "confidence": 86}
+{"qid": "722", "model": "qwen", "entity": "Uncertain - likely a finance/tech industry professional", "answer": "I cannot identify this individual with confidence from the given clues. The combination of graduating with highest honors, founding a hedge fund between 2000-2005 (serving until 2011), being quoted as CEO in a 2020-2022 article, and being elected a Class II director of a company founded between 2000-2010 is highly specific, but I cannot match it to a named individual from memory alone.", "confidence": 15}
+{"qid": "681", "model": "qwen", "entity": "Greek Theatre (Los Angeles)", "answer": 5600, "confidence": 55}
+{"qid": "838", "model": "qwen", "entity": "Hogarth's Little Heroes", "answer": "Peter Bowness", "confidence": 12}
+{"qid": "814", "model": "qwen", "entity": "Tia Ballard", "answer": "Tia Ballard", "confidence": 58}
+{"qid": "907", "model": "gpt55", "entity": "Vasco da Gama Pillar, Malindi, Kenya", "answer": "Vasco da Gama Pillar", "confidence": 92}
+{"qid": "502", "model": "gpt55", "entity": "A Dec. 27, 2011 music-blog “Tuesday Tunes” year-end playlist post", "answer": "“Go Outside” by Cults", "confidence": 12}
+{"qid": "763", "model": "gpt55", "entity": "Hunter-Dawson State Historic Site", "answer": "Hunter-Dawson State Historic Site, also known as the Hunter-Dawson House, in New Madrid, Missouri", "confidence": 78}
+{"qid": "910", "model": "qwen", "entity": "A Catholic priest/cleric killed in India (likely around 2015-2019) who was murdered while about to begin a religious ceremony", "answer": "Day of Prayer and Penance", "confidence": 55}
+{"qid": "591", "model": "qwen", "entity": "Amrita University", "answer": "Amrita University", "confidence": 62}
+{"qid": "896", "model": "gpt55", "entity": "Sir Ian Athfield", "answer": "Ian Athfield", "confidence": 95}
+{"qid": "186", "model": "gpt55", "entity": "Power Politics", "answer": "Power Politics", "confidence": 55}
+{"qid": "912", "model": "qwen", "entity": "A research paper on whales initiated between 1995-2005 involving 12 intermediate/high school students and 4 project leaders, one of whom earned a doctorate from University of Hawai'i at Manoa", "answer": "I cannot confidently identify the specific teachers named in the acknowledgments of this paper based on my knowledge alone.", "confidence": 10}
+{"qid": "968", "model": "qwen", "entity": "Mopane worm (Imbrasia belina)", "answer": "Dr. Chris van Emden", "confidence": 45}
+{"qid": "865", "model": "qwen", "entity": "unknown academic", "answer": "I cannot confidently identify the specific individual from these clues alone.", "confidence": 15}
+{"qid": "485", "model": "gpt55", "entity": "Dear Esther", "answer": "Ivan", "confidence": 38}
+{"qid": "896", "model": "qwen", "entity": "A New Zealand-born lawyer who was adopted, dismissed from a corporate firm, set up his own practice, and received a knighthood shortly before his death", "answer": "I am unable to identify this individual with full confidence from memory alone. The clues point to a New Zealand-born legal professional (born early 1940s, adopted, partner at a firm dismissed before 1970, own practice, knighted and died 2010-2016 within a month of knighthood).", "confidence": 15}
+{"qid": "810", "model": "gpt55", "entity": "Edgar Irving Williams", "answer": "Irving", "confidence": 78}
+{"qid": "729", "model": "gpt55", "entity": "Bolaji Amusan (Mr Latin)", "answer": "Amusan", "confidence": 74}
+{"qid": "907", "model": "qwen", "entity": "Vasco da Gama Pillar, Malindi, Kenya", "answer": "The Vasco da Gama Pillar (a stone pillar erected in 1498 by Vasco da Gama's crew in Malindi, Kenya, bearing the Portuguese Coat of Arms, located near a Catholic shrine, within ~76 miles of the UNESCO World Heritage Site of Lamu Old Town, and reinforced with concrete by a British naval captain in the 19th century)", "confidence": 82}
+{"qid": "886", "model": "qwen", "entity": "The 100 - Season 3, Episode 7 \"The Keepers\"", "answer": "The TV show is The 100. The episode is Season 3, Episode 7, titled \"The Keepers\" (aired March 7, 2016).", "confidence": 35}
+{"qid": "804", "model": "qwen", "entity": "A historical figure from the Eastern Region of Ghana who was enslaved, later became a merchant, and died en route back to Africa after being exiled", "answer": "The Merchant's Return", "confidence": 8}
+{"qid": "1032", "model": "qwen", "entity": "A plant species whose potential pharmacological activity was tested on a mammal in a 2013 paper (4 authors, 28 references, 1st ref by Bruce, 3rd ref by Borrelli)", "answer": "Linda", "confidence": 15}
+{"qid": "840", "model": "qwen", "entity": "Two literary works by the same 19th-century English author featuring orphans, captivity, and gothic elements", "answer": "19th century; England", "confidence": 45}
+{"qid": "850", "model": "qwen", "entity": "Sonic the Hedgehog", "answer": "Sonic the Hedgehog", "confidence": 60}
+{"qid": "1000", "model": "qwen", "entity": "A Ghanaian doctor who studied medicine in Scotland, established a clinic in 1958, and was profiled in an International Biographical Centre publication in a leap year at the end of the 20th century", "answer": "Dr. Kofi Ababio", "confidence": 30}
+{"qid": "1019", "model": "gpt55", "entity": "Rishi Kapoor", "answer": "Rishi Raj Kapoor", "confidence": 97}
+{"qid": "776", "model": "gpt55", "entity": "Diamond Jenness", "answer": "The Dorset Culture of the Eastern Arctic", "confidence": 90}
+{"qid": "985", "model": "qwen", "entity": "A master's thesis on Church Fathers and Montanism (the condemned Charismatic sect) from a Concordia University seminary (likely Concordia University Texas, founded 1899, or Concordia University St. Paul, founded 1893)", "answer": "I am not able to identify the specific author with high confidence based on the available clues. My best guess is that this is a thesis from Concordia University Texas's seminary program, but I cannot commit to a specific author's full name with sufficient certainty.", "confidence": 15}
+{"qid": "796", "model": "gpt55", "entity": "Kelvyn Colt", "answer": "Kelvyn Colt", "confidence": 82}
+{"qid": "1039", "model": "qwen", "entity": "A researcher who was a GSI in the USA, studied in South America, and holds a senior researcher position in Western Europe as of 2022, co-authoring an article with 'Wikipedia' as one of 6 keywords in the abstract", "answer": "Wikipedia as a Source of Health Information: A Systematic Review", "confidence": 25}
+{"qid": "947", "model": "qwen", "entity": "Rita Dove", "answer": "Rita Dove", "confidence": 45}
+{"qid": "910", "model": "gpt55", "entity": "Father Richmond Nilo", "answer": "Day of Reparation", "confidence": 88}
+{"qid": "1019", "model": "qwen", "entity": "John Travolta", "answer": "John Frank Travolta", "confidence": 72}
+{"qid": "1045", "model": "qwen", "entity": "An assistant professor and researcher who is editor-in-chief, published two books, and wrote for a daily literary news site", "answer": "I am not confident in identifying the specific individual from these clues alone. My best guess is that this refers to a relatively early-career literary scholar/journalist at a university who edits a literary journal and contributes to a daily literary news outlet.", "confidence": 15}
+{"qid": "682", "model": "gpt55", "entity": "Lauren J. Sharkey", "answer": "Lauren Sharkey", "confidence": 72}
+{"qid": "886", "model": "gpt55", "entity": "Legion — Season 1, Episode 5, \"Chapter 5\"", "answer": "The TV show is \"Legion\"; the episode is Season 1, \"Chapter 5.\"", "confidence": 93}
+{"qid": "883", "model": "qwen", "entity": "Batman Returns", "answer": "Batman Returns (1992)", "confidence": 65}
+{"qid": "595", "model": "gpt55", "entity": "Jack Laugher", "answer": "Jack Laugher", "confidence": 62}
+{"qid": "1043", "model": "qwen", "entity": "cytoprotective effect of three compounds in a plant extract", "answer": "cytoprotective", "confidence": 82}
+{"qid": "970", "model": "qwen", "entity": "Philippe Noiret", "answer": "Philippe Gérard Noiret", "confidence": 72}
+{"qid": "1099", "model": "gpt55", "entity": "Yann Tiersen – Porz Goret", "answer": "Porz Goret", "confidence": 85}
+{"qid": "970", "model": "gpt55", "entity": "Pascale Audret", "answer": "Pascale Aiguionne Louise Jacqueline Marie Auffray", "confidence": 94}
+{"qid": "1133", "model": "qwen", "entity": "Trevor Noah", "answer": "Johannesburg", "confidence": 65}
+{"qid": "1000", "model": "gpt55", "entity": "Emmanuel Evans-Anfom", "answer": "Emmanuel Evans-Anfom", "confidence": 85}
+{"qid": "1152", "model": "qwen", "entity": "A poet married to an Appalachian writer who lost two family members in the pandemic and has a poem with 'photograph' in the title", "answer": "The child asks the speaker to take a photograph (take their picture).", "confidence": 35}
+{"qid": "1133", "model": "gpt55", "entity": "Loyiso Gola", "answer": "Cape Town", "confidence": 82}
+{"qid": "968", "model": "gpt55", "entity": "mopane worm (mopani worm)", "answer": "Derek Hanekom", "confidence": 60}
+{"qid": "1214", "model": "gpt55", "entity": "Irrfan Khan", "answer": "Sahabzade Irfan Ali Khan", "confidence": 94}
+{"qid": "1215", "model": "gpt55", "entity": "Nashik, Maharashtra, India", "answer": "Nashik", "confidence": 96}
+{"qid": "1089", "model": "gpt55", "entity": "Yoyoy Villame", "answer": "Mikey Bustos", "confidence": 80}
+{"qid": "1227", "model": "gpt55", "entity": "Forest owlet", "answer": "Athene blewitti", "confidence": 95}
+{"qid": "1061", "model": "qwen", "entity": "Robert Greene and The 48 Laws of Power (1998)", "answer": "The 48 Laws of Power", "confidence": 25}
+{"qid": "1083", "model": "gpt55", "entity": "A Bathing Ape (BAPE)", "answer": "A Bathing Ape", "confidence": 78}
+{"qid": "1122", "model": "gpt55", "entity": "Lalan Sarang", "answer": "Lalan Sarang", "confidence": 85}
+{"qid": "804", "model": "gpt55", "entity": "King Jaja of Opobo", "answer": "Jaja of Opobo", "confidence": 82}
+{"qid": "1263", "model": "gpt55", "entity": "PRAN-RFL Group", "answer": "PRAN-RFL Group", "confidence": 86}
+{"qid": "950", "model": "qwen", "entity": "A tower-based action game from the late 1980s/early 1990s released in Japan", "answer": "I am unable to confidently identify the specific game from the given clues. The combination of a 60-80 store tower, 5 power-ups, 9-15 enemies, elemental characters, a genre shift for the developer, a different international release name, and the specific composer background points to a particular lesser-known Japanese title, but I cannot commit to a definitive original name with sufficient confidence.", "confidence": 8}
+{"qid": "1185", "model": "gpt55", "entity": "Royal Challengers Bangalore vs Pune Warriors India, Bengaluru, April 23, 2013", "answer": "31st Match, Indian Premier League 2013", "confidence": 99}
+{"qid": "1263", "model": "qwen", "entity": "Fauji Foundation", "answer": "Fauji Foundation", "confidence": 55}
+{"qid": "850", "model": "gpt55", "entity": "Aero the Acro-Bat", "answer": "Aero the Acro-Bat", "confidence": 67}
+{"qid": "816", "model": "gpt55", "entity": "Jacques Servin, also known as Andy Bichlbaum", "answer": "The Yes Men", "confidence": 72}
+{"qid": "1083", "model": "qwen", "entity": "A Bathing Ape (BAPE)", "answer": "BAPE", "confidence": 45}
+{"qid": "1043", "model": "gpt55", "entity": "the September 2009 FAPESP-funded paper on antiulcerogenic activity of an extract and its phenolic compounds", "answer": "antiulcerogenic", "confidence": 82}
+{"qid": "834", "model": "gpt55", "entity": "Moyer House Museum", "answer": "Moyer House Museum", "confidence": 74}
+{"qid": "947", "model": "gpt55", "entity": "Sharon Olds", "answer": "Sharon Olds", "confidence": 88}
+{"qid": "883", "model": "gpt55", "entity": "Oscar (1993 video game)", "answer": "Oscar", "confidence": 78}
+{"qid": "82", "model": "gpt55", "entity": "Rita Kaur Dhamoon", "answer": "Rita Kaur Dhamoon", "confidence": 78}
+{"qid": "840", "model": "gpt55", "entity": "Wilkie Collins", "answer": "19th century; England", "confidence": 67}
+{"qid": "1032", "model": "gpt55", "entity": "Ficus religiosa", "answer": "Boon Manakitivipart", "confidence": 58}
+{"qid": "1191", "model": "gpt55", "entity": "Bangladesh vs West Indies, ICC Cricket World Cup", "answer": "Match 23, 2019", "confidence": 97}
+{"qid": "838", "model": "gpt55", "entity": "Pucca", "answer": "Joy Tashjian", "confidence": 62}
+{"qid": "1254", "model": "qwen", "entity": "Shashi Kumble Kapoor", "answer": "Shashi Kumble Kapoor", "confidence": 45}
+{"qid": "562", "model": "gpt55", "entity": "Mary Colborne-Veel", "answer": "Kirstine Moffat", "confidence": 55}
+{"qid": "985", "model": "gpt55", "entity": "Charismatic Gifts in the Early Church", "answer": "Ronald A. N. Kydd", "confidence": 25}
+{"qid": "1039", "model": "gpt55", "entity": "article", "answer": "The Wikipedia gender gap: a scoping review", "confidence": 38}
+{"qid": "1191", "model": "qwen", "entity": "2019 ICC Cricket World Cup - England vs South Africa (group stage)", "answer": "Match 15, 2019", "confidence": 62}
+{"qid": "1153", "model": "gpt55", "entity": "Kurt Cobb", "answer": "Kurt Cobb", "confidence": 53}
+{"qid": "50", "model": "gpt55", "entity": "Anne Goodwin", "answer": "16 months", "confidence": 45}
+{"qid": "1152", "model": "gpt55", "entity": "Crystal Wilkinson", "answer": "The child asks the speaker for a story.", "confidence": 35}
+{"qid": "1254", "model": "gpt55", "entity": "Sanjeev Kumar", "answer": "Harihar Jethalal Jariwala", "confidence": 62}
+{"qid": "912", "model": "gpt55", "entity": "a Hawaiian humpback-whale student research project/paper (likely involving Adam A. Pack or another University of Hawaiʻi–trained whale researcher)", "answer": "I don’t know; my best guess is that the teachers were Judy Lemus, Carol Hopper, and Diane Drigot.", "confidence": 3}
+{"qid": "1045", "model": "gpt55", "entity": "Dan Sinykin", "answer": "Dan Sinykin", "confidence": 78}
+{"qid": "715", "model": "gpt55", "entity": "Kevin A. Baggerly; likely the paper by Baggerly and Coombes on SAGE data analysis", "answer": "R01-CA-64602", "confidence": 58}
+{"qid": "1232", "model": "gpt55", "entity": "The Savage Damsel and the Dwarf", "answer": "The Savage Damsel and the Dwarf", "confidence": 45}
+{"qid": "833", "model": "gpt55", "entity": "Brad William Henke", "answer": "Brandt", "confidence": 78}
+{"qid": "256", "model": "gpt55", "entity": "Anna Bull", "answer": "Anna Bull", "confidence": 72}
+{"qid": "1061", "model": "gpt55", "entity": "Joshua Harris, author of I Kissed Dating Goodbye", "answer": "I Survived I Kissed Dating Goodbye", "confidence": 82}
+{"qid": "950", "model": "gpt55", "entity": "Snow Bros. 2: With New Elves", "answer": "Otenki Paradise: Snow Bros. 2", "confidence": 55}

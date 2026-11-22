@@ -1,0 +1,25 @@
+{
+ "family": "f2",
+ "finished": "2026-11-22T16:39:01",
+ "questions": 99,
+ "questions_with_docs": 65,
+ "docs_passed": 125,
+ "docs_rejected": 67,
+ "real_entity_docs_passed": 71,
+ "oracle_status": {
+  "abstained_with_injected": 17,
+  "correct": 58,
+  "misled_by_injected": 20,
+  "None": 2,
+  "inconclusive_gold_only_wrong": 2
+ },
+ "gate_models": {
+  "gpt-5.5": 72,
+  "gpt-5.4-mini": 27
+ },
+ "not_generated": [
+  "764"
+ ],
+ "realism_probe": "not run (cost); see f1/f4 DONE",
+ "index": "BrowseComp-Plus/indexes/bm25 (k1=0.9, b=0.4)"
+}

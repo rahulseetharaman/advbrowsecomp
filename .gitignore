@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+corpus/
+indexes/
+logs/
+results/runs/
+results/evals_raw/
+data/work/llm_calls.jsonl
+data/work/*_raw*.jsonl
+data/work/*_gate.jsonl
+data/work/*.log

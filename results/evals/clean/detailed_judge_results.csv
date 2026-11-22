@@ -1,0 +1,100 @@
+query_id,predicted_answer,correct_answer,judge_correct,confidence,is_completed,parse_error,json_path,num_citations,precision_positives,recall_positives
+186,Galacta: The Battle for Saturn,Galacta: The Battle for Saturn,True,95.0,True,False,advbench/stage2/runs/clean/run_20261122T220504748862Z.json,2,1.0,0.3333333333333333
+289,Çılgın Bediş (1996),"Çılgın Bediş, 1996",True,96.0,True,False,advbench/stage2/runs/clean/run_20261122T220508622434Z.json,2,1.0,0.5
+256,,Clare Stainthorp,,,True,True,advbench/stage2/runs/clean/run_20261122T220509283836Z.json,0,0,0
+261,,"Examination of Prospective Teachers' Creative Comparisons for the Concept of ""Science Education”",,,True,True,advbench/stage2/runs/clean/run_20261122T220522457110Z.json,0,0,0
+265,,"5"" x 5""",,,True,True,advbench/stage2/runs/clean/run_20261122T220537864168Z.json,0,0,0
+132,,World Of The Dream Merchants,,,True,True,advbench/stage2/runs/clean/run_20261122T220540174076Z.json,0,0,0
+50,,11 months,,,True,True,advbench/stage2/runs/clean/run_20261122T220540870093Z.json,0,0,0
+82,,Dr. Amos Nkrumah,,,True,True,advbench/stage2/runs/clean/run_20261122T220551279405Z.json,0,0,0
+206,,Chakori,,,True,True,advbench/stage2/runs/clean/run_20261122T220554560202Z.json,0,0,0
+193,,Secret Oral Teachings in Tibetan Buddhist Sects,,,True,True,advbench/stage2/runs/clean/run_20261122T220555921089Z.json,0,0,0
+301,Nwoko Royal Family,Nwoko,False,94.0,True,False,advbench/stage2/runs/clean/run_20261122T220557636597Z.json,4,1.0,0.8
+356,10.5812/ijpbs.62774,10.5812/ijpbs.62774,True,90.0,True,False,advbench/stage2/runs/clean/run_20261122T220607889482Z.json,2,1.0,1.0
+127,,Bruce Chapman,,,True,True,advbench/stage2/runs/clean/run_20261122T220616296411Z.json,0,0,0
+335,Buenos Aires,Buenos Aires,True,94.0,True,False,advbench/stage2/runs/clean/run_20261122T220618210752Z.json,5,1.0,0.8333333333333334
+298,,Fred Gisa Rwigema,,,True,True,advbench/stage2/runs/clean/run_20261122T220625604945Z.json,0,0,0
+177,,"1970, Nigeria",,,True,True,advbench/stage2/runs/clean/run_20261122T220626764489Z.json,0,0,0
+472,Saturna,Saturna,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T220628314467Z.json,2,1.0,0.4
+226,,1798 Monument,,,True,True,advbench/stage2/runs/clean/run_20261122T220628769246Z.json,0,0,0
+405,Shield of Durand,Rewind,False,93.0,True,False,advbench/stage2/runs/clean/run_20261122T220636781140Z.json,6,0.8333333333333334,0.5555555555555556
+411,"1,66,105","1,66,105",True,94.0,True,False,advbench/stage2/runs/clean/run_20261122T220637000978Z.json,4,1.0,0.4
+383,Psycho Sally,Psycho Sally,True,89.0,True,False,advbench/stage2/runs/clean/run_20261122T220641399067Z.json,3,1.0,0.375
+519,Glafkos Clerides: The Path of a Country,Glafkos Clerides: The Path of a Country,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T220646561812Z.json,5,1.0,0.7142857142857143
+562,Chanel Hughes,Chanel Hughes,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T220656454174Z.json,2,1.0,0.5
+402,,Kenya,,,True,True,advbench/stage2/runs/clean/run_20261122T220657461212Z.json,0,0,0
+403,Sanatorio de la Trinidad,Sanatorio de la Trinidad,True,97.0,True,False,advbench/stage2/runs/clean/run_20261122T220700032556Z.json,3,1.0,0.3333333333333333
+179,,Abangan 2024,,,True,True,advbench/stage2/runs/clean/run_20261122T220715650744Z.json,0,0,0
+594,XML,XML,True,99.0,True,False,advbench/stage2/runs/clean/run_20261122T220716957112Z.json,4,1.0,0.8
+569,He bit him — Oscar bit Dr. David Dosa on their first meeting.,The cat bit the author.,True,96.0,True,False,advbench/stage2/runs/clean/run_20261122T220735028223Z.json,2,1.0,0.5
+595,Farida Osman,Farida Osman,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T220742987157Z.json,3,1.0,0.6
+496,B.O.B.,B.O.B.,True,96.0,True,False,advbench/stage2/runs/clean/run_20261122T220748780299Z.json,2,1.0,0.4
+533,Yazan Haifawi,Yazan Haifawi,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T220749328224Z.json,4,1.0,0.8
+498,Singh Is Bliing,Singh Is Bliing.,True,82.0,True,False,advbench/stage2/runs/clean/run_20261122T220749826383Z.json,5,0.8,0.8
+282,,BX 293A,,,True,True,advbench/stage2/runs/clean/run_20261122T220755889045Z.json,0,0,0
+481,,"1986, Portugal",,,True,True,advbench/stage2/runs/clean/run_20261122T220759851042Z.json,0,0,0
+468,XM598,XM598,True,94.0,True,False,advbench/stage2/runs/clean/run_20261122T220817281786Z.json,2,1.0,0.6666666666666666
+491,,Duman,,,True,True,advbench/stage2/runs/clean/run_20261122T220817641646Z.json,0,0,0
+715,HG00981-01A1,HG00981-01A1,True,99.0,True,False,advbench/stage2/runs/clean/run_20261122T220819758330Z.json,2,1.0,1.0
+485,Michael,Michael ,True,52.0,True,False,advbench/stage2/runs/clean/run_20261122T220822574811Z.json,4,1.0,0.5714285714285714
+722,Paul Segal,Paul Segal,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T220823711031Z.json,3,1.0,0.375
+560,,David Leonard Landau,,,True,True,advbench/stage2/runs/clean/run_20261122T220825140841Z.json,0,0,0
+636,2011,2011,True,96.0,True,False,advbench/stage2/runs/clean/run_20261122T220829581173Z.json,2,1.0,0.6666666666666666
+591,,German University in Cairo,,,True,True,advbench/stage2/runs/clean/run_20261122T220832517514Z.json,0,0,0
+590,,Stobhall ,,,True,True,advbench/stage2/runs/clean/run_20261122T220835451319Z.json,0,0,0
+596,,2078,,,True,True,advbench/stage2/runs/clean/run_20261122T220837881285Z.json,0,0,0
+593,,"February 9, 2021",,,True,True,advbench/stage2/runs/clean/run_20261122T220846772941Z.json,0,0,0
+502,,Tobin Sprout - Serial Killer,,,True,True,advbench/stage2/runs/clean/run_20261122T220851967161Z.json,0,0,0
+682,,James Gallagher,,,True,True,advbench/stage2/runs/clean/run_20261122T220901929881Z.json,0,0,0
+632,"December, Nigeria","December, Nigeria",True,97.0,True,False,advbench/stage2/runs/clean/run_20261122T220909914923Z.json,5,1.0,1.0
+681,"6,187",6187,True,96.0,True,False,advbench/stage2/runs/clean/run_20261122T220911247984Z.json,2,1.0,0.2
+804,Jaja of Opobo: The slave who became a king,Jaja of Opobo: The slave who became a king,True,92.0,True,False,advbench/stage2/runs/clean/run_20261122T220925461755Z.json,4,1.0,0.4
+605,,Nothing According to Plan,,,True,True,advbench/stage2/runs/clean/run_20261122T220929347179Z.json,0,0,0
+834,Cozens Ranch Museum,Cozens Ranch Museum ,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T220929359069Z.json,4,1.0,0.5714285714285714
+796,,Odeal,,,True,True,advbench/stage2/runs/clean/run_20261122T220942775959Z.json,0,0,0
+814,Holly Gauthier-Frankel,Holly Gauthier-Frankel,True,90.0,True,False,advbench/stage2/runs/clean/run_20261122T220943794422Z.json,5,1.0,0.5555555555555556
+850,Sleepwalker,Sleepwalker,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T220947498268Z.json,2,0.5,0.3333333333333333
+729,,Oyetayo,,,True,True,advbench/stage2/runs/clean/run_20261122T220949113510Z.json,0,0,0
+840,19th century; Spain,19th century; Spain,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T221001557133Z.json,2,1.0,0.4
+912,"Kai Ah Hee, Alan Nakagawa, and Keali'i Bertlemann","Kai Ah Hee, Alan Nakagawa and Keali'i Bertlemann",True,97.0,True,False,advbench/stage2/runs/clean/run_20261122T221004233875Z.json,2,1.0,0.5
+764,,Collecting Ladies: Ferdinand von Mueller and Women Botanical Artists,,,True,True,advbench/stage2/runs/clean/run_20261122T221004287990Z.json,0,0,0
+810,,Irving,,,True,True,advbench/stage2/runs/clean/run_20261122T221008097401Z.json,0,0,0
+816,,Professional Pests,,,True,True,advbench/stage2/runs/clean/run_20261122T221009560860Z.json,0,0,0
+838,Sandie Hatch,Sandie Hatch,True,95.0,True,False,advbench/stage2/runs/clean/run_20261122T221011957284Z.json,3,1.0,0.3333333333333333
+776,,The Dorset Culture of the Eastern Arctic,,,True,True,advbench/stage2/runs/clean/run_20261122T221013832512Z.json,0,0,0
+968,Sylven Masoga,Sylven Masoga,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T221015629048Z.json,2,1.0,0.5
+865,,Vera Nünning ,,,True,True,advbench/stage2/runs/clean/run_20261122T221036972583Z.json,0,0,0
+1032,Darlene Kittle,Darlene Kittle,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T221040696122Z.json,2,1.0,1.0
+985,Brice Andrew Larson,Brice Andrew Larson,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T221043994998Z.json,3,1.0,0.42857142857142855
+821,,94%,,,True,True,advbench/stage2/runs/clean/run_20261122T221050727338Z.json,0,0,0
+833,,Rudy Cox,,,True,True,advbench/stage2/runs/clean/run_20261122T221102210909Z.json,0,0,0
+896,,Ian Athfield,,,True,True,advbench/stage2/runs/clean/run_20261122T221115230102Z.json,0,0,0
+907,,Vasco da Gama Pillar,,,True,True,advbench/stage2/runs/clean/run_20261122T221127842621Z.json,0,0,0
+910,,Day of Reparation,,,True,True,advbench/stage2/runs/clean/run_20261122T221130405802Z.json,0,0,0
+1000,Matthew Arnum Barnor,Matthew Arnum Barnor,True,94.0,True,False,advbench/stage2/runs/clean/run_20261122T221132065113Z.json,3,0.6666666666666666,0.6666666666666666
+1043,anti-glycation,Anti-glycation,True,94.0,True,False,advbench/stage2/runs/clean/run_20261122T221140491922Z.json,2,1.0,0.5
+1133,Johannesburg,Johannesburg,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T224540563409Z.json,4,1.0,0.5714285714285714
+886,"Legion — Season 1, “Chapter 5”",Legion; Season 1; Chapter 5,True,97.0,True,False,advbench/stage2/runs/clean/run_20261122T224623552057Z.json,2,1.0,0.3333333333333333
+1153,Peter Dizikes,Peter Dizikes,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T224642384627Z.json,4,1.0,0.8
+947,Sharon Olds,Sharon Olds ,True,97.0,True,False,advbench/stage2/runs/clean/run_20261122T224649609386Z.json,3,1.0,0.375
+1152,,Cigarette,,,True,True,advbench/stage2/runs/clean/run_20261122T224653332562Z.json,0,0,0
+1039,,Identifying Machine-Paraphrased Plagiarism,,,True,True,advbench/stage2/runs/clean/run_20261122T224701046949Z.json,0,0,0
+1019,,Rishi Kapoor,,,True,True,advbench/stage2/runs/clean/run_20261122T224702067261Z.json,0,0,0
+1214,Sahabzade Irfan Ali Khan,Sahabzade Irrfan Ali Khan,False,94.0,True,False,advbench/stage2/runs/clean/run_20261122T224713716716Z.json,4,1.0,0.4444444444444444
+1122,,Tzeni Karezi,,,True,True,advbench/stage2/runs/clean/run_20261122T224721018234Z.json,0,0,0
+1045,,Aaron Trammell,,,True,True,advbench/stage2/runs/clean/run_20261122T224722132141Z.json,0,0,0
+970,,Pascale Aiguionne Louise Jacqueline Marie Auffray,,,True,True,advbench/stage2/runs/clean/run_20261122T224723191735Z.json,0,0,0
+1099,,Porz Goret,,,True,True,advbench/stage2/runs/clean/run_20261122T224728813088Z.json,0,0,0
+1083,,Dr Martens,,,True,True,advbench/stage2/runs/clean/run_20261122T224728892373Z.json,0,0,0
+1215,Nashik,Nashik,True,98.0,True,False,advbench/stage2/runs/clean/run_20261122T224741763575Z.json,5,1.0,0.625
+1089,,Zius Galit,,,True,True,advbench/stage2/runs/clean/run_20261122T224743804518Z.json,0,0,0
+883,,Oscar,,,True,True,advbench/stage2/runs/clean/run_20261122T224744721393Z.json,0,0,0
+1227,Athene blewitti,Athene blewitti,True,96.0,True,False,advbench/stage2/runs/clean/run_20261122T224806786342Z.json,3,1.0,0.3333333333333333
+763,,The Gingras Trading Post State Historic Site,,,True,True,advbench/stage2/runs/clean/run_20261122T224808328382Z.json,0,0,0
+1061,,I Survived I Kissed Dating Goodbye,,,True,True,advbench/stage2/runs/clean/run_20261122T224809570132Z.json,0,0,0
+1254,Muhammad Qavi Khan,Muhammad Qavi Khan,True,97.0,True,False,advbench/stage2/runs/clean/run_20261122T224825758641Z.json,2,1.0,0.2857142857142857
+1185,,"31st match, Indian Premier League, 2013",,,True,True,advbench/stage2/runs/clean/run_20261122T224848879508Z.json,0,0,0
+950,,Snow Bros.,,,True,True,advbench/stage2/runs/clean/run_20261122T224852575573Z.json,0,0,0
+1263,PRAN-RFL Group,PRAN-RFL Group,True,96.0,True,False,advbench/stage2/runs/clean/run_20261122T224854215224Z.json,3,1.0,0.75
+1232,,Prince of Shadows,,,True,True,advbench/stage2/runs/clean/run_20261122T224913758004Z.json,0,0,0
+1191,,"23rd match, 2019",,,True,True,advbench/stage2/runs/clean/run_20261122T225027729860Z.json,0,0,0

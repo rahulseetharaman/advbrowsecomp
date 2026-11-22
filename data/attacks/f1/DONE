@@ -1,0 +1,19 @@
+{
+ "family": "f1",
+ "finished": "2026-11-22T16:30:02",
+ "questions": 100,
+ "questions_with_docs": 83,
+ "docs_passed": 166,
+ "docs_rejected": 34,
+ "oracle_status": {
+  "abstained_with_injected": 15,
+  "misled_by_injected": 15,
+  "correct": 69,
+  "inconclusive_gold_only_wrong": 1
+ },
+ "realism_probe": {
+  "injected": "60/60 judged ai_written",
+  "real": "1/60 judged ai_written"
+ },
+ "index": "BrowseComp-Plus/indexes/bm25 (k1=0.9, b=0.4)"
+}
