@@ -4,7 +4,7 @@ An adversarial extension of [BrowseComp-Plus](https://github.com/texttron/Browse
 generates fake web pages that trigger the failure modes found in an error analysis of deep-research
 agents, adds them to the BrowseComp-Plus corpus, and measures how much they hurt a search agent.
 
-Pilot results are in [RESULTS.md](RESULTS.md): on 99 questions, decoy and memory-lure pages cut
+Key findings are in [FINDINGS.md](FINDINGS.md); full pilot results are in [RESULTS.md](RESULTS.md): on 99 questions, decoy and memory-lure pages cut
 gpt-5.4-mini's accuracy from 43% to 26% and 24%.
 
 > **Keep this repository private.** `data/work/spec_v2.jsonl`, `data/attacks/*/validation.jsonl`,
